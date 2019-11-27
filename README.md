@@ -9,4 +9,3 @@ Git Commands:
 - git checkout <branchname>
 - git push <remote URL repository> <branchName> (push branch to remote repository)
 
-I want to learn GitHub
