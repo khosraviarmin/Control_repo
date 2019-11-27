@@ -1,3 +1,3 @@
 # Control_repo
 
-I want to learn puppet
+I want to learn GitHub
